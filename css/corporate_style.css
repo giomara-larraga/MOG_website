@@ -43,7 +43,7 @@ a{
 }
  a:hover {
      text-decoration: none;
-     color:#14b1bb;
+     color:#002957;
 }
  body {
 	color:#616161;
@@ -93,7 +93,7 @@ p.form-messege{
      display: none;
 }
 .corporate-header-top {
-    background: #14b1bb;
+    background: #E8EBF0;
     padding: 10px 200px;
 }
  .top-address p {
@@ -104,7 +104,7 @@ p.form-messege{
 }
  .top-address p span i, .top-address p a i {
      font-size: 13px;
-     color: #fff;
+     color: #002957;
      margin-right: 5px;
 }
  .top-address p span i:hover, .top-address p a i:hover{
@@ -134,15 +134,15 @@ p.form-messege{
      font-size: 15px;
 }
  .top-welcomet p span, .top-welcomet p a, .top-welcome p span, .top-welcome p a, .top-welcome p, .top-address p a, .top-right-menu ul.social-icons li a, .top-address p span {
-     color: #fff;
+     color: #002957;
      font-size: 15px;
      font-weight: 500;
 }
  .top-welcome p a:hover{
-     color:#17161a;
+     color:#F1563F;
 }
  .top-right-menu .social-icons li a:hover, .top-right-menu .social-icons li a i:hover {
-     color: #17161a;
+     color: #F1563F;
 }
  .top-both-p0 .top-address p a, .top-both-p0 .top-address p span {
      margin-right: 0px;
@@ -241,7 +241,7 @@ p.form-messege{
      margin-right: 15px !important;
 }
 .corporate_menu > ul > li.current > a, .corporate_menu > ul > li:hover > a, .creative_header_menu > ul > li:hover > a {
-    color: #14b1bb;
+    color: #002957;
     background-color: transparent;
 }
  .corporate_menu > ul > li:hover > a:before, .corporate_menu > ul > li.current > a:before {
@@ -270,7 +270,7 @@ p.form-messege{
      color:#fff;
 }
  .corporate_nav_area.prefix .corporate_menu > ul > li.current > a {
-     color: #14b1bb;
+     color: #002957;
 }
  .search_popup_button, .tx_mmenu_together{
      align-items: center;
@@ -331,7 +331,7 @@ p.form-messege{
     padding: 4px 0px;
 }
  .corporate_menu ul .sub-menu li:hover > a, .corporate_menu ul .sub-menu .sub-menu li:hover > a, .corporate_menu ul .sub-menu .sub-menu .sub-menu li:hover > a, .corporate_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover > a {
-     color: #14b1bb;
+     color: #002957;
 }
 .corporate_menu ul .sub-menu li:hover {
     margin-left: 16px;
@@ -525,7 +525,7 @@ textarea, input {
 	margin-top:10px;
 }
 .em-quearys-menu i{
-    background: #14b1bb;
+    background: #002957;
     border-radius: 50px;
     display: inline-block;
     text-align: center;
@@ -558,7 +558,7 @@ textarea, input {
     margin-right: 10px;
 }
 .main_menu_header_icon i {
-    color: #14b1bb;
+    color: #002957;
 	font-size: 30px;
 }
 .main_menu_header_address_text h3, .main_menu_header_address_text h4 a {
@@ -568,7 +568,7 @@ textarea, input {
 	
 }
 .main_menu_header_address_text h3{
-	color: #14b1bb;
+	color: #002957;
 }
 .main_menu_header_address_text h4 {
     margin-bottom: 0;
@@ -593,7 +593,7 @@ textarea, input {
 }
 .mean-container .mean-bar {
     float: none;
-    background: #14b1bb none repeat scroll 0% 0;
+    background: #002957 none repeat scroll 0% 0;
     overflow: hidden;
 }
 
@@ -682,14 +682,14 @@ textarea, input {
 	font-weight:600;
 }
 .witr_section_title_inner h2 {
-    color: #14b1bb;
+    color: #002957;
 }
  .witr_section_title_inner p span a,
  .witr_section_title_inner p span, 
  .witr_section_title_inner h1 span,
  .witr_section_title_inner h2 span,
  .witr_section_title_inner h3 span{
-     color:#14b1bb;
+     color:#002957;
 }
  .witr_section_title_inner p {
      margin-top: 10px;
@@ -705,7 +705,7 @@ textarea, input {
     color:#fff;
 }
 .title_btn a {
-    background: #14b1bb;
+    background: #002957;
     padding: 15px 30px;
     color: #fff;
     display: inline-block;
@@ -741,7 +741,7 @@ textarea, input {
 .witr_bar_inner {
     height: 5px;
     width: 90px;
-    background: #14b1bb;
+    background: #002957;
     margin: 0px auto;
     position: relative;
     border-radius: 30px;
@@ -762,7 +762,7 @@ textarea, input {
     left: 0;
     top: 50%;
     transform: translateY(-50%);
-    border: 6px solid #14b1bb;
+    border: 6px solid #002957;
     border-radius: 50%;
     background: #1c1b1b;
     -webkit-animation-duration: 3s;
@@ -781,7 +781,7 @@ textarea, input {
     right: 0;
     top: 50%;
     transform: translateY(-50%);
-    border: 6px solid #14b1bb;
+    border: 6px solid #002957;
     border-radius: 50%;
     background: #1c1b1b;
     -webkit-animation-duration: 3s;
@@ -922,7 +922,7 @@ textarea, input {
      font-weight:Italic;
 }
 .corporate_single_event:hover .event_page_title h2 a, .witr_swiper_content h1 span, .witr_swiper_content h2 span, .witr_swiper_content h3 span {
-    color: #14b1bb;
+    color: #002957;
 }
  .witr_swiper_content h1 {
     color: #fff;
@@ -1084,13 +1084,13 @@ a.dtbtn {
     background: #0a0a0a;
 }
 .pricing-part a.btn, .feature_btn a, .witr_ser_btnb a, .service-btn > a, a.dtbtn, .witr_btn, .witr_bbtn, .witr_gbtn, .witr_gbbtn, .corporate_button a, .witr_sbtn_s8 a {
-    background-color: #14b1bb;
+    background-color: #002957;
     border-radius: 30px;
     color: #fff;
     display: inline-block;
 }
  .witr_btn:hover, .witr_bbtn:hover, .witr_gbtn:hover::before, .witr_vbtn:hover, .witr_vhgbtn:hover::before, .witr_vbbgbtn_inner:hover:after, .witr_vbbgbtn:hover::after, .witr_vdbbgbtn_inner:hover:before, .witr_vdbbgbtn:hover::before {
-    background-color: #14b1bb;
+    background-color: #002957;
 }
 .witr_btn {
     border-radius: 100px;
@@ -1114,8 +1114,8 @@ a.dtbtn {
 }
  .witr_swiper_content .witr_btn.active:hover {
     color: #fff;
-    background-color: #14b1bb;
-    border-color: #14b1bb;
+    background-color: #002957;
+    border-color: #002957;
 }
 .slider_btn {
     margin-top: 48px;
@@ -1131,7 +1131,7 @@ a.dtbtn {
 .corporate_slider_icon ul li a i {
     font-size: 15px;
     color: #fff;
-    background: #14b1bb;
+    background: #002957;
     height: 35px;
     width: 35px;
     line-height: 35px;
@@ -1163,7 +1163,7 @@ a.dtbtn {
     display: none;
 }
 .swiper-button-prev:hover, .swiper-button-next:hover {
-    color: #14b1bb;
+    color: #002957;
     background: #fff;
     padding: 30px;
 }
@@ -1234,7 +1234,7 @@ a.dtbtn {
     font-size: 16px;
     font-weight: 500;
     margin-right: 10px;
-    background: #14b1bb;
+    background: #002957;
     color: #fff;
     border-radius: 100px;
 }
@@ -1391,7 +1391,7 @@ a.dtbtn {
     border-radius: 100px;
 }
 .butn {
-    border: 2px solid #14b1bb;
+    border: 2px solid #002957;
 }
 .butn {
     background: 0 0;
@@ -1409,7 +1409,7 @@ a.dtbtn {
     margin-right: 5px;
 }
 .active .witr_ac_style, .banner-content a i, .banner-content button, .banner-content.content-4 ul li a:hover i, .butn:before, .witr_about_btn a, .witr_ac_style:focus, .witr_ac_style:hover {
-    background: #14b1bb;
+    background: #002957;
 }
 .butn:before {
     content: '';
@@ -1429,7 +1429,7 @@ a.dtbtn {
     border-radius: 100px;
 }
  .butn:hover, .banner-content button:hover {
-    border-color: #14b1bb;
+    border-color: #002957;
 	color:#fff;
 }
 .butn:hover:before {
@@ -1553,14 +1553,14 @@ a.dtbtn {
     border-radius: 100px;
     transition: all 0.5s ease 0s;
     z-index: 1;
-	background:#14b1bb;  	
+	background:#002957;  	
 }
 a.em-active-button {
-    background: #14b1bb;
+    background: #F1563F;
     color: #fff;
 }
 .em-button-button-area a:hover{
-	color:#14b1bb;
+	color:#F1563F;
 	background:#fff;
 }
 .em-slider-half-width {
@@ -1622,8 +1622,8 @@ a.em-active-button {
     right: 0;
 }
 .em-nivo-slider-wrapper .nivo-directionNav a:hover {
-    background: #14b1bb;
-    border-color: #14b1bb;
+    background: #002957;
+    border-color: #002957;
     color: #fff;
 }
 .em-nivo-slider-wrapper:hover .nivo-directionNav a {
@@ -1657,7 +1657,7 @@ a.em-active-button {
 line-height: 25px;	
 }
 .em-nivo-slider-wrapper .nivo-controlNav a:hover, .em-nivo-slider-wrapper .nivo-controlNav a.active {
-    background: #14b1bb;
+    background: #F1563F;
 	color:#fff;
     opacity: 1;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
@@ -1743,13 +1743,13 @@ line-height: 25px;
     transition: .5s;
 }
 .service-item i {
-    color: #14b1bb;
+    color: #002957;
 }
 .service-item h3 {
     padding: 26px 0 10px;
 }
 .service-item:hover {
-    background-color: #14b1bb;
+    background-color: #002957;
 }
 .service-item:hover .text_box i, .service-item:hover .text_box h3{
 	color:#fff;
@@ -1790,7 +1790,7 @@ line-height: 25px;
 .snigle_news_feed i, .snigle_news_feed img {
     float: left;
     margin-top: 5px;
-	color: #14b1bb;
+	color: #002957;
     font-size: 35px;
     text-align: center;
     margin: -6px 0 0;
@@ -1830,7 +1830,7 @@ line-height: 25px;
 }
 /* ===== corporate 4 Feature Area CSS ===== */
 .cp4_feature_area .all_color_service:hover {
-	background:#14b1bb;
+	background:#002957;
 }
 /* ===== corporate 5 Feature Area CSS ===== */
 .cp5_feature_area {
@@ -1949,7 +1949,7 @@ line-height: 25px;
 }
 .witr_feature_icon_3d i {
     font-size: 60px;
-    color: #14b1bb;
+    color: #002957;
     display: inline-block;
     line-height: 1;
     margin-bottom: 18px;
@@ -1987,7 +1987,7 @@ line-height: 25px;
     background: #fff;
 }
 .witr_service_btn_3d a:hover {
-    color: #14b1bb;
+    color: #002957;
 }
 /* feature Front Face */
 .witr_feature_front_3d {
@@ -2008,7 +2008,7 @@ line-height: 25px;
     border-radius: 10px;
 }
 .witr_feature_back_3d {
-    background: #14b1bb;
+    background: #002957;
 }
  .witr_feature_back_3d:before {
      content: "";
@@ -2065,7 +2065,7 @@ line-height: 25px;
     line-height: normal;
     background: 0 0;
     border: none;
-    color: #14b1bb;
+    color: #002957;
 }
 .witr_cfeature8 .sub-item h3 {
     margin-top: 30px;
@@ -2080,15 +2080,15 @@ line-height: 25px;
     font-weight: 600;
 }
 .feature_btn a {
-    border: 1px solid #14b1bb;
+    border: 1px solid #F1563F;
     background: 0;
     margin-top: 10px;
 }
 .feature_btn a, .sub-item.sub-item-3 i {
-    color: #14b1bb;
+    color: #F1563F;
 }
 .feature_btn a:hover, .sub-item.sub-item-6:hover i {
-    background: #14b1bb;
+    background: #F1563F;
 	color:#fff;
 }
 /* ===== corporate 9 Feature Area CSS ===== */
@@ -2124,7 +2124,7 @@ line-height: 25px;
 }
 .em-service-icon i {
     font-size: 50px;
-	color: #14b1bb;
+	color: #002957;
 }
 .witr_s_flex {
     display: flex;
@@ -2141,7 +2141,7 @@ line-height: 25px;
     margin-bottom: 5px;
 }
 .about_right_bottom_inner .em-service-title h3 {
-    color: #14b1bb;
+    color: #002957;
     font-size: 18px;
     font-weight: 600;
     margin: 0 0 5px;
@@ -2155,7 +2155,7 @@ line-height: 25px;
     width: 60px;
     height: 60px;
     line-height: 60px;
-	background-color: #14b1bb;
+	background-color: #002957;
 	text-align: center;
     border-radius: 50%;
 	font-size:25px;
@@ -2177,7 +2177,7 @@ line-height: 25px;
     padding-left: 5px;
 }
 .icon-list-icon i {
-    color: #14b1bb;
+    color: #002957;
     font-size: 22px;
 }
 .about_list_inner {
@@ -2223,7 +2223,7 @@ line-height: 25px;
     margin-top: 5px;
 }
 .cp4_about_area .em-service-desc a{
-	color: #14b1bb;
+	color: #002957;
     font-size: 18px;
     font-weight: 400;
 }
@@ -2266,7 +2266,7 @@ line-height: 25px;
     margin-top: 12px;
 }
 .cp5_about_area .about_right_bottom_inner .em-service-title h3 {
-    color: #14b1bb;
+    color: #002957;
     font-size: 18px;
     font-weight: 600;
     margin: 5px 0 5px;
@@ -2315,13 +2315,13 @@ line-height: 25px;
 .cp8_about_area .em-service2.sleft {
     border-style: solid;
     border-width: 0 0 0 2px;
-    border-color: #14b1bb;
+    border-color: #002957;
     padding: 18px 30px 15px;
     border-radius: 5px;
     width: 48%;
 }
 .cp8_about_area .em-service-icon i {
-    color: #14b1bb;
+    color: #002957;
 	font-size: 20px;
 }
 .cp8_about_area .em-service-title h3, .cp8_about_area .em-service-title h3 a {
@@ -2335,7 +2335,7 @@ line-height: 25px;
     margin: -2px 5px 0 0;
 }
 .cp8_about_area .em-service2:hover {
-    background-color: #14b1bb;
+    background-color: #002957;
 	color:#fff;
 }
  .cp8_about_area .all_color_service:hover h3, .cp8_about_area .all_color_service:hover h3 a, .cp8_about_area .all_color_service:hover p, .cp8_about_area .all_color_service:hover i, .cp8_about_area .all_color_service:hover .service_list_op a {
@@ -2363,7 +2363,7 @@ line-height: 25px;
     margin-bottom: 1px;
 }
 .cp9_about_area .all_list_color ul li a i, .cp9_about_area .all_list_color ul li span i {
-    color: #14b1bb;
+    color: #002957;
     font-size: 15px;
     text-align: center;
     margin: 0 4px 0 0;
@@ -2446,7 +2446,7 @@ line-height: 25px;
 }
 .em_single_service:hover {
     background-color: transparent;
-    background: #14b1bb;
+    background: #002957;
 }
 .em_single_service:hover .service_icon i,
 .em_single_service:hover .service_inner_content h3,
@@ -2495,11 +2495,11 @@ line-height: 25px;
     padding: 60px 40px 50px;
 }
 .corporate3_service_area .service-item:hover {
-    border: 2px solid #14b1bb;
+    border: 2px solid #002957;
     background-color: #fff;
 }
 .corporate3_service_area .service-item:hover .text_box i {
-    color: #14b1bb;
+    color: #002957;
 }
 .corporate3_service_area .service-item:hover .text_box h3 {
     color: #030925;
@@ -2543,7 +2543,7 @@ line-height: 25px;
 }
 .witr_service_10 .serIcon i {
     line-height: 1;
-	color: #14b1bb;
+	color: #002957;
     font-size: 55px;
 }
 .detail_SS h3 {
@@ -2556,7 +2556,7 @@ line-height: 25px;
     padding: 0;
 }
 .service_list_op ul li i {
-    color: #14b1bb;
+    color: #002957;
 }
 .service_list_op ul i {
     margin-right: 15px;
@@ -2572,10 +2572,10 @@ line-height: 25px;
     box-shadow: 0px 0px 30px 0px rgb(0 0 0 / 5%);
     background-color: #00000000;
     border-style: none;
-    color: #14b1bb;
+    color: #002957;
 }
 .witr_service_10 .service-btn a:hover{
-	background-color: #14b1bb;
+	background-color: #002957;
 	color:#fff;
 }
 .witr_service_10 {
@@ -2595,7 +2595,7 @@ line-height: 25px;
     transition: .5s;
 }
 .witr_service_10:before {
-    background: #14b1bb;
+    background: #002957;
 }
 .witr_service_10:hover:before {
     height: 40%;
@@ -2622,7 +2622,7 @@ line-height: 25px;
 .wirt_detail_texti {
     padding: 15px 30px 10px;
     text-align: left;
-	background: #14b1bb;
+	background: #002957;
 }
 .wirt_detail_icon {
     float: left;
@@ -2672,7 +2672,7 @@ line-height: 25px;
     transition: 1s;
 }
 .Screenshots .dnSlide-main .dnSlide-btn, .pluse_btn_slick span, .witr_11_btn.witr_sbtn_s8 a, .witr_sbtn_s8 a i {
-    background: #14b1bb;
+    background: #002957;
 	color: #fff;
 }
 .pluse_btn_slick {
@@ -2727,8 +2727,8 @@ line-height: 25px;
     margin-bottom: 55px;
 }
 .cp_animation_service_area .witr_animate_content h1 span {
-    -webkit-text-stroke-color: #14b1bb;
-    -webkit-text-fill-color: #14b1bb;
+    -webkit-text-stroke-color: #002957;
+    -webkit-text-fill-color: #002957;
     -webkit-text-stroke-width: 0px;
 }
 .cp_animation_service_area .cd-headline.clip span {
@@ -2881,10 +2881,10 @@ line-height: 25px;
     transition: .5s;
 }
 .wbutton_top_service_icon a, .witr_service2_icon_bottom i, .witr_service_10 .service-btn a, .witr_servicetwo_text a {
-    color: #14b1bb;
+    color: #002957;
 }
 .poly_text_box:hover .service_icon_box::before, .wirt_detailb_icon i:hover, .witr_service2:hover .wbutton_top_service_icon a::before, .witr_service2:hover .witr_service2_icon_bottom::before {
-    background: #14b1bb;
+    background: #002957;
 }
 
 /* ===== 7. Process Area CSS ===== */
@@ -2914,7 +2914,7 @@ line-height: 25px;
     width: 95px;
     line-height: 95px;
     color: #fff;
-    background: #14b1bb;
+    background: #002957;
     display: inline-block;
     border-radius: 100%;
     font-size: 30px;
@@ -2938,13 +2938,13 @@ line-height: 25px;
     padding: 60px 0 30px;
     border-style: solid;
     border-width: 1px;
-    border-color: #14B1BB40;
+    border-color: #00295740;
     border-radius: 5px;
 	transition:.5s;
 }
 .cp9_process_area .sub-item:hover {
     border-style: solid;
-    border-color: #14b1bb;
+    border-color: #002957;
 }
 /* ===== 8. Skill Area CSS ===== */
 .corporate_skill_area{
@@ -2971,7 +2971,7 @@ line-height: 25px;
     background-color: #e9ecef;
 }
 .progress-bar {
-    background:#14b1bb;
+    background:#002957;
 }
 .witr_progress-style2 .progress-bar {
     position: relative;
@@ -3126,7 +3126,7 @@ line-height: 25px;
     background: #fff;
 }
  .nav-tabs i {
-    color: #14b1bb;
+    color: #002957;
     font-size: 30px;
 }
 .witr_taba_style1 .nav-tabs span {
@@ -3135,7 +3135,7 @@ line-height: 25px;
     margin: 0 15px;
 }
 .nav-tabs .nav-link:hover, .witr_taba_style1 .nav-tabs .nav-item.show .nav-link, .witr_taba_style1 .nav-tabs .nav-link.active {
-    background: #14b1bb;
+    background: #002957;
 }
  .nav-tabs .nav-link.active, .nav-tabs .active i {
     color: #fff;
@@ -3157,7 +3157,7 @@ line-height: 25px;
     padding: 0 35px 0;
 }
 .witr_widget_list i {
-    color: #14b1bb;
+    color: #002957;
     font-size: 22px;
 	background:none;
 }
@@ -3174,7 +3174,7 @@ line-height: 25px;
 /* video button css */
  .tx_svd_icon {
     font-size: 25px;
-    background-color: #14b1bb;
+    background-color: #002957;
 }
 .witr_swiper_area .tx_svd_icon {
     width: 100px;
@@ -3318,12 +3318,12 @@ line-height: 25px;
     font-size: 30px;
     -webkit-transition: all .5s ease 0s;
     transition: all .5s ease 0s;
-	background: #14b1bb;
+	background: #002957;
 	color:#fff;
 }
 .witr_sstyle_9:hover .text_box i {
     background: #fff;
-	color: #14b1bb;
+	color: #002957;
 }
 .witr_sstyle_9 {
     position: relative;
@@ -3342,7 +3342,7 @@ line-height: 25px;
     transition: .5s;
 }
 .witr_sstyle_9:before {
-    background: #14b1bb;
+    background: #002957;
 }
 .witr_sstyle_9:hover:before {
     width: 100%;
@@ -3381,7 +3381,7 @@ line-height: 25px;
 }
 .witr_single_team_s {
     text-align: center;
-    background: #14b1bb;
+    background: #002957;
     padding: 15px 0;
 }
 .witr_single_team_s  a{
@@ -3406,13 +3406,13 @@ line-height: 25px;
 }
 .team_single_title h1 {
 	font-size: 17px;
-	color:#14b1bb;	
+	color:#002957;	
 }
 .single_team_list ul li i,
 .single_team_list ul li a i{
     font-size: 19px;
     color: #fff;
-    background: #14b1bb;
+    background: #002957;
     height: 40px;
     width: 40px;
     line-height: 40px;
@@ -3431,7 +3431,7 @@ line-height: 25px;
     margin-top: 30px;	
 }
 .team_single_btn a{
-	background: #14b1bb;
+	background: #002957;
     border-radius: 5px;
     color: #fff;
     display: inline-block;
@@ -3471,7 +3471,7 @@ line-height: 25px;
     transition: .5s;
 }
 .team_bottom_icon a, .team_top_icon ul li a {
-    background: #14b1bb;
+    background: #002957;
 }
 .team_bottom_icon a, .team_o_icons ul li a:hover, .team_top_icon ul li a {
     color: #fff;
@@ -3485,7 +3485,7 @@ line-height: 25px;
     background: #fff;
 }
 .all_color_team span {
-    color: #14b1bb;
+    color: #002957;
     font-size: 16px;
     font-weight: 500;
 }
@@ -3544,8 +3544,8 @@ line-height: 25px;
     opacity: 0;
 }
 .team_s14_image:before {
-    border-left: 15px solid #14b1bb;
-    border-top: 15px solid #14b1bb;
+    border-left: 15px solid #002957;
+    border-top: 15px solid #002957;
 }
 .team_s14_image:after {
     content: '';
@@ -3558,10 +3558,10 @@ line-height: 25px;
     opacity: 0;
 }
 .team_s14_image:after {
-    border-right: 15px solid #14b1bb;
+    border-right: 15px solid #002957;
 }
 .team_o_icon ul li a:hover, .team_s14_image:after {
-    background: #14b1bb;
+    background: #002957;
 }
 .all_content_bg_color h5 {
     padding: 18px 0 0;
@@ -3570,7 +3570,7 @@ line-height: 25px;
 .back_view span, .front_view span {
     display: inline-block;
     line-height: 28px;
-	color: #14b1bb;
+	color: #002957;
     font-size: 16px;
     font-weight: 500;
 }
@@ -3598,8 +3598,8 @@ line-height: 25px;
     color: #ababab;
 }
 .front_view .con_TMS a:hover {
-    border-color: #14b1bb;
-	background: #14b1bb;
+    border-color: #002957;
+	background: #002957;
 	color:#fff;
 }
 .all_color_testimonial, .all_blog_color, .all_color_service, .all_service2_color, .all_color_team, .all_feature_color {
@@ -3696,7 +3696,7 @@ line-height: 25px;
     border: none;
 }
 .front_view .con_TMS13_icon.con_TMS a {
-    background: #14b1bb;
+    background: #002957;
 }
 .front_view .con_TMS a:hover, .front_view .con_TMS13_icon.con_TMS a, .team_o_icon ul li a, .team_o_icon ul li a:hover, .witr_bottom_icon a:hover, .witr_team_s11 span {
     color: #fff;
@@ -3718,7 +3718,7 @@ line-height: 25px;
 .back_view span, .front_view span {
     display: inline-block;
     line-height: 28px;
-	color: #14b1bb;
+	color: #002957;
     font-size: 16px;
     font-weight: 500;
 }
@@ -3745,8 +3745,8 @@ line-height: 25px;
     z-index: 99;
 }
 .team_line_bottom, .team_line_top {
-    background: -webkit-linear-gradient(left,rgba(117,161,251,0),#14b1bb,rgba(117,161,251,0));
-    background: linear-gradient(to right,rgba(117,161,251,0),#14b1bb,rgba(117,161,251,0));
+    background: -webkit-linear-gradient(left,rgba(117,161,251,0),#002957,rgba(117,161,251,0));
+    background: linear-gradient(to right,rgba(117,161,251,0),#002957,rgba(117,161,251,0));
 }
 .team_line_bottom {
     bottom: 0;
@@ -3772,8 +3772,8 @@ line-height: 25px;
     top: -60px;
 }
 .team_line_left, .team_line_right {
-    background: -webkit-linear-gradient(bottom,rgba(117,161,251,0),#14b1bb,rgba(117,161,251,0));
-    background: linear-gradient(to top,rgba(117,161,251,0),#14b1bb,rgba(117,161,251,0));
+    background: -webkit-linear-gradient(bottom,rgba(117,161,251,0),#002957,rgba(117,161,251,0));
+    background: linear-gradient(to top,rgba(117,161,251,0),#002957,rgba(117,161,251,0));
 }
 .team_line_right {
     right: 0;
@@ -3818,7 +3818,7 @@ line-height: 25px;
     top: 0;
     opacity: 0;
     transition: .5s;
-	background-color: #14B1BB6E;
+	background-color: #0029576E;
 }
 .post_team_icon_8 {
     position: absolute;
@@ -3846,7 +3846,7 @@ line-height: 25px;
     background: #fff;
 }
 .post_team_icon_8 ul li a {
-    color: #14b1bb;
+    color: #002957;
 }
 .pteam_8 .post_team_content {
     text-align: left;
@@ -3881,7 +3881,7 @@ line-height: 25px;
     opacity: 1;
 }
 .post_team_icon_8 ul li a:hover {
-    background: #14b1bb;
+    background: #002957;
 	color:#fff;
 }
 .cp10_team_area .all_color_team {
@@ -3915,7 +3915,7 @@ line-height: 25px;
     border-radius: 50%;
 }
 .cp_animat_team_area .team_overlay_icon a {
-    background: #14b1bb;
+    background: #002957;
 	color:#fff;
 }
 .cp_animat_team_area .witr_team_content {
@@ -3925,7 +3925,7 @@ line-height: 25px;
     opacity: 1;
 }
 .cp_animat_team_area .witr_team_content h5:hover{
-    color: #14b1bb;
+    color: #002957;
 }
 /* ===== 11. Call To Action Area CSS ===== */
 .call_to_action_area {
@@ -4034,7 +4034,7 @@ color: #fff;
 }
 /* =====  Call To Action Area CSS ===== */
 .cp7_call_to_action_area {
-    background: #14b1bb;
+    background: #002957;
     margin-top: 0;
 }
 .cp7_call_to_action_area .call_action_inner {
@@ -4052,7 +4052,7 @@ color: #fff;
 }
 /* ===== corporate Animation  Call To Action Area CSS ===== */
 .cp_animat_call_to_action {
-    background: #14b1bb;
+    background: #002957;
     color: #fff;
     margin-top: 0;
 }
@@ -4158,15 +4158,15 @@ font-size: 21px;
 }
  .witr_btnp_color a.btn:hover {
     color: #fff;
-    background-color: #14b1bb;
+    background-color: #002957;
     border-style: default;
-    border-color: #14b1bb;
+    border-color: #002957;
 }
 .active_btn a.btn{
 	color: #fff;
-    background-color: #14b1bb;
+    background-color: #002957;
     border-style: default;
-    border-color: #14b1bb;
+    border-color: #002957;
 }
 /* pricing_style_7 */
 .pricing_style_7.pricing-part h4{
@@ -4196,7 +4196,7 @@ font-size: 21px;
     color: #fff;
     z-index: 1;
     position: relative;
-    background: #14b1bb;
+    background: #002957;
 }
 .all_pricing_color h5 {
     font-size: 35px;
@@ -4208,7 +4208,7 @@ font-size: 21px;
     font-size: 40px;
 }
  .all_pricing_color h5 {
-    color: #14b1bb;
+    color: #002957;
     font-size: 36px;
 }
 .pricing-part.pricing_style_5 span {
@@ -4237,7 +4237,7 @@ font-size: 21px;
     padding: 10px 0;
     margin-bottom: 40px;
     font-size: 30px;
-    background: #14b1bb;
+    background: #002957;
     color: #fff;
 }
 .cp9_pricing_plan .pricing-part span {
@@ -4287,9 +4287,9 @@ font-size: 21px;
 }
 .pricing_plane_area2 .witr_btnp_color a.btn:hover {
     color: #fff;
-    background-color: #14b1bb;
+    background-color: #002957;
     border-style: solid;
-    border-color: #14b1bb;
+    border-color: #002957;
 }
 .pricing_plane_area2 .witr_btnp_color {
     padding-top: 45px;
@@ -4353,7 +4353,7 @@ font-size: 21px;
     box-shadow: 0 0 30px 0 rgb(0 0 0 / 10%);
 }
 .witr_pricing_icon i {
-    color: #14b1bb;
+    color: #002957;
 }
 .pricing_top_box {
     position: relative;
@@ -4361,7 +4361,7 @@ font-size: 21px;
     border-radius: 5px;
 }
  .pricing_top_box:before {
-    background-color: #14B1BBAD;
+    background-color: #002957AD;
 }
 .pricing_top_box:before {
     content: "";
@@ -4388,7 +4388,7 @@ font-size: 21px;
 .pricing_plane_area3 .pricing-part h5 {
     font-size: 35px;
 	color: #fff;
-	background: #14b1bb;
+	background: #002957;
 }
 .pricing_plane_area3 .pricing-part span {
     font-size: 24px;
@@ -4412,8 +4412,8 @@ font-size: 21px;
 .pricing_plane_area3 .pricing-part a.btn {
     padding: 17px 30px;
     display: inline-block;
-	border: 1px solid #14b1bb;
-	background: #14b1bb;
+	border: 1px solid #002957;
+	background: #002957;
 	border-radius: 100px;
     font-size: 18px;
     font-weight: 600;
@@ -4431,7 +4431,7 @@ font-size: 21px;
     text-align: center;
     -webkit-transform: rotate(45deg);
     transform: rotate(45deg);
-	background: #14b1bb;
+	background: #002957;
 }
 .btn, .learn_btn, .witr_feature_btn_f a, .witr_feature_btn_3d a, .feature_btn a, .witr_ser_btnb a, .service-btn>a, a.dtbtn, .witr_btn, .witr_bbtn, .witr_gbtn, .witr_gbbtn, .poket_button a, .witr_sbtn_s8 a {
     border-radius: 100px;
@@ -4439,9 +4439,9 @@ font-size: 21px;
     font-weight: 600;
 }
 .pricing_plane_area3 .pricing-part a.btn:hover {
-    color: #14b1bb;
+    color: #002957;
 	background:0;
-	border-color:#14b1bb;
+	border-color:#002957;
 }
 /* ===== 13. Testimonial_Area CSS ===== */
 .testimonial_area {
@@ -4533,7 +4533,7 @@ font-size: 21px;
     margin-top: 5px;
     font-size: 18px;
     font-weight: 600;
-    color: #14b1bb;
+    color: #002957;
 }
  .em_testi_text {
      overflow: hidden;
@@ -4583,7 +4583,7 @@ font-size: 21px;
 }
 .testAuthor span {
     font-size: 15px;
-    color: #14b1bb;
+    color: #002957;
 }
  .test-part, .em_single_testimonial, .witr_testi_main, .testiCreCon {
     padding: 50px 15px 50px 15px;
@@ -4614,10 +4614,10 @@ font-size: 21px;
     border: none;
 }
 .em_crating i.active {
-    color: #14b1bb;
+    color: #002957;
 }
 .execllent_star h3 {
-    color: #14b1bb;
+    color: #002957;
     font-size: 18px;
     font-weight: 600;
     margin: 0;
@@ -4801,7 +4801,7 @@ font-size: 21px;
 .cp_animat_testi_area .test-part span {
     font-weight: 400;
     font-size: 17px;
-	color:#14b1bb;
+	color:#002957;
 }
 .cp_animat_testi_area .test-part img {
     position: absolute;
@@ -4814,13 +4814,13 @@ font-size: 21px;
 /* ===== 14. Counter Up Area CSS ===== */
 .counter_up_area {
     padding: 85px 0px 60px;
-    background: #14b1bb;
+    background: #002957;
 }
 .counter_inner {
     padding: 63px 0px 33px 0px;
     z-index: 999;
     position: relative;
-    background: #14b1bb;
+    background: #002957;
 }
 .witr_counter_single {
     text-align: center;
@@ -4844,7 +4844,7 @@ font-size: 21px;
     font-weight: 700;
 }
 .witr_counter_icon i {
-    color: #14b1bb;
+    color: #002957;
 }
 .all_counter_color i {
     color: #FFFFFF;
@@ -4914,16 +4914,16 @@ font-size: 21px;
 	border-radius:50px;
 }
 .slick-dots li button {
-    border: 0 solid #14b1bb;
+    border: 0 solid #002957;
 }
 .slick-dots li.slick-active button {
-    background: #14b1bb;
+    background: #002957;
 }
 .slick-dots li button {
-    background: #14b1bb5c;
+    background: #0029575c;
 }
 .slick-dots li button {
-    border: 0 solid #14b1bb;
+    border: 0 solid #002957;
 }
 .slick-dots {
     position: absolute;
@@ -4980,7 +4980,7 @@ font-size: 21px;
     padding: 15px 25px 5px;
 }
 .active .witr_ac_style {
-    background-color: #14b1bb;
+    background-color: #002957;
 }
 .witr_ac_style {
     display: flex;
@@ -5016,7 +5016,7 @@ font-size: 21px;
     width: 6%;
     display: block;
     content: "";
-    background: #14b1bb;
+    background: #002957;
     height: 2px;
     margin-right: 10px;
     display: inline-block;
@@ -5028,7 +5028,7 @@ font-size: 21px;
     padding-top: 0px;
 }
 .active .witr_ac_style, .banner-content a i, .banner-content button, .banner-content.content-4 ul li a:hover i, .butn:before, .witr_about_btn a, .witr_ac_style:focus, .witr_ac_style:hover {
-    background: #14b1bb;
+    background: #002957;
     color: #fff;
 }
 .corporate_accordion_area .single_image_area .single_image img {
@@ -5036,7 +5036,7 @@ font-size: 21px;
     width: 100%;
 }
  .active .witr_ac_style {
-    background-color: #14b1bb;
+    background-color: #002957;
 }
 .faq_page_faq_area {
     padding: 100px 0px 80px;
@@ -5133,7 +5133,7 @@ font-size: 21px;
     animation: witr_squares 1.5s ease-in-out infinite;
 }
 .play-overlay a, .play-overlay a:before, .title_btn a, .title_in:after, .title_in:before, .video-item a, .video-item a:before, .witr_bar_inner {
-    background: #14b1bb;
+    background: #002957;
 }
 .play-overlay i {
     position: absolute;
@@ -5175,17 +5175,17 @@ font-size: 21px;
 }
 /* ===== Brand Area CSS ===== */
 .cp6_brand_area {
-    background: #14b1bb;
+    background: #002957;
     padding: 75px 0 90px;
 }
 /* ===== Brand Area CSS ===== */
 .corporate_brand_area.cp7_brand_area {
-    background: #14b1bb;
+    background: #002957;
     padding: 65px 0px 80px 0px;
 }
 /* ===== Brand Area CSS ===== */
 .cp10_brand_area {
-    background: #14b1bb;
+    background: #002957;
     padding: 65px 0 80px;
 }
 /* ===== 17. Contact Area CSS ===== */
@@ -5240,7 +5240,7 @@ font-size: 21px;
     border-radius: 0px;
 }
 .contact_area .witr_apartment_form .btn:hover{
-    background-color: #14b1bb;;
+    background-color: #002957;;
 }
 
 .form-control:focus {
@@ -5279,7 +5279,7 @@ font-size: 21px;
     display: inline-block;
     font-weight: 500;
     padding: 18px 60px;
-    background: #14b1bb;
+    background: #002957;
     color: #fff;
     font-size: 16px;
     border-radius: 100px;
@@ -5311,7 +5311,7 @@ font-size: 21px;
     box-shadow: 0 0 30px 0 rgb(0 0 0 / 6%);
 }
 .cp7_contact_area .apartment_text h1 {
-    color: #14b1bb;
+    color: #002957;
 }
 .cp7_contact_area .apartment_text h2 {
     margin: 15px 0 50px;
@@ -5337,7 +5337,7 @@ font-size: 21px;
 }
 .cp7_contact_area .twr_form_box input:hover,
 .cp7_contact_area .twr_form_box textarea:hover{
-	border-color:#14b1bb;
+	border-color:#002957;
 }
 /* ===== corporate8 Contact Area CSS ===== */
 .cp8_contact_area {
@@ -5379,7 +5379,7 @@ font-size: 21px;
     display: inline-block;
     -webkit-transition: .5s;
     transition: .5s;
-	background: #14b1bb;
+	background: #002957;
 	color:#fff;
 }
 .contact_top_address_area .service-item h3 {
@@ -5499,7 +5499,7 @@ font-size: 21px;
 EM40 SCROLL TOP CSS
 =========================*/
 #scrollUp {
-    background: #14b1bb;
+    background: #002957;
     bottom: 30px;
     color: #fff;
     font-size: 30px;
@@ -5527,7 +5527,7 @@ EM40 SCROLL TOP CSS
     cursor: pointer;
     color: #fff;
     outline: none;
-    background: #14b1bb;
+    background: #002957;
     z-index: 9;
     opacity: 0;
     border-radius: 5px;
@@ -5693,7 +5693,7 @@ button:focus {
      transition: .5s;
 }
  .footer-middle .widget ul li a:hover, .footer-middle .widget ul li:hover:before {
-     color: #14b1bb;
+     color: #002957;
 }
  .recent-portfolio-area {
      display: -webkit-box;
@@ -5811,8 +5811,8 @@ button:focus {
     color: #fff;
 }
 .corporate-description-area .social-icons a:hover {
-    border-color: #14b1bb;
-	background: #14b1bb;
+    border-color: #002957;
+	background: #002957;
 }
 .corporate-description-area a img {
     margin: 26px 0;
@@ -5834,7 +5834,7 @@ button:focus {
 .footer-bottom {
     padding: 26px 0 24px;
     position: relative;
-    background: #14b1bb;
+    background: #002957;
 }
  .copy-right-text {
      text-align:left;
@@ -5940,7 +5940,7 @@ button:focus {
      color: #fff;
 }
 .breadcumb-inner li a:hover {
-    color: #14b1bb;
+    color: #002957;
 }
  .brpt h2 {
      color: #fff;
@@ -6044,7 +6044,7 @@ button:focus {
     animation: witr_video_ripple 2s infinite;
 }
 .poket_video_inner a:before {
-    box-shadow: 0px 0px 10px 0px #14b1bb;
+    box-shadow: 0px 0px 10px 0px #002957;
 }
 .poket_video_inner i {
     height: 70px;
@@ -6058,7 +6058,7 @@ button:focus {
     transition: 1s;
 }
 .poket_video_inner i, .w_apps_button a:hover {
-    background: #14b1bb;
+    background: #002957;
 }
 .poket_button a, .poket_button a:hover, .poket_video_inner i {
     color: #fff;
@@ -6175,7 +6175,7 @@ button:focus {
     border-radius: 5px;
     font-size: 30px;
     background: #fff;
-    color: #14b1bb;
+    color: #002957;
     text-align: center;
     z-index: 99;
     opacity: 0;
@@ -6187,7 +6187,7 @@ button:focus {
 	opacity: 1; 
  } 
 .witr_pslide_custom a:hover {
-    color:#14b1bb;
+    color:#002957;
     z-index: 999;
     background: #0a0a0a;
 }
@@ -6213,7 +6213,7 @@ button:focus {
 	transition:.5s;
 }
 .witr_content_pslide_text h3 a:hover {
-    color: #14b1bb;
+    color: #002957;
 }
 .witr_content_pslide_text p {
     color: #fff;
@@ -6238,7 +6238,7 @@ button:focus {
     bottom: 0;
 }
 .positi_3.pprotfolio4 {
-    background: #14b1bb;
+    background: #002957;
 }
 .positi_3 .porttitle_inner4 h3 a, .positi_3 .porttitle_inner4 p span {
     color: #fff;
@@ -6450,12 +6450,12 @@ button:focus {
     display: inline-block;
 }
 .portfolio_nav ul li.current_menu_item, .portfolio_nav ul li:hover {
-    border-color: #14b1bb;
-	background: #14b1bb;
+    border-color: #002957;
+	background: #002957;
 	color: #fff;
 }
 .prot_content {
-    background: #14b1bb80;
+    background: #00295780;
 }
 .pprotfolio4 {
     box-shadow: 0 10px 16px 0 rgba(0,0,0,.7);
@@ -6467,8 +6467,8 @@ button:focus {
     text-align: center;
 }
 .page-numbers span.current, .paginations a.current, .paginations a:hover {
-    border-color: #14b1bb;
-	 background: #14b1bb;
+    border-color: #002957;
+	 background: #002957;
 	 color: #fff;
 }
 ul.page-numbers a.page-numbers {
@@ -6534,11 +6534,11 @@ ul.page-numbers a.page-numbers {
     width: 50px;
     text-align: center;
     color: #fff;
-    background: #14b1bb;
+    background: #002957;
 }
 .picon a:hover {
 	border-color: #555;
-    background-color: #14b1bb;
+    background-color: #002957;
 }
 /* style 1 */
 .em_port_content {
@@ -6647,7 +6647,7 @@ ul.page-numbers a.page-numbers {
 	box-shadow:none;
 }
 .corporate02_portfolio_area .porttitle_inner4 h3 a:hover {
-    color: #14b1bb;
+    color: #002957;
 }
 /* ===== Portfolio Area CSS ===== */
 .cp5_portfolio_area {
@@ -6682,7 +6682,7 @@ ul.page-numbers a.page-numbers {
     text-align: left;
 }
 .pstyle2.pstyle3 .prot_content_inner {
-    background: #14b1bb;
+    background: #002957;
 }
 .pstyle2.pstyle3 .single_protfolio:hover .prot_content_inner {
     left: 75%;
@@ -6730,7 +6730,7 @@ ul.page-numbers a.page-numbers {
     margin-bottom: 20px;
 }
 .port_style02 .prot_content h3 a:hover {
-    color: #14b1bb;
+    color: #002957;
 }
 /* ===== Portfolio Area CSS ===== */
 .cp7_portfolio_area {
@@ -6783,7 +6783,7 @@ ul.page-numbers a.page-numbers {
     padding: 16px 38px;
 }
 .cp8_port_area .portfolio_nav ul li:hover {
-    color: #14b1bb;
+    color: #002957;
 }
 .cp8_port_area .portfolio_nav ul li.current_menu_item {
     color: #000;
@@ -6800,7 +6800,7 @@ ul.page-numbers a.page-numbers {
     margin-bottom: 0px;
 }
 .cp8_port_area .prot_content h3 a:hover {
-    color: #14b1bb;
+    color: #002957;
 }
 .cp8_port_area .picon a:hover {
     border-color: #0a0a0a;
@@ -6843,10 +6843,10 @@ ul.page-numbers a.page-numbers {
 	font-size:25px;
 }
 .cp_animat_port_area .picon a:hover {
-    background: #14b1bb;
+    background: #002957;
 }
 .cp_animat_port_area .prot_content h3 a:hover {
-    color: #14b1bb;
+    color: #002957;
 }
 /* portfolio 3column area css */
 .portfolio_3column_area .witr_section_title {
@@ -6906,7 +6906,7 @@ ul.page-numbers a.page-numbers {
     transform: scale(1,1);
 }
 .portfolio_style2 .prot_content h3 a:hover {
-    color: #14b1bb;
+    color: #002957;
 }
 /* portfolio 4column area css */
 .portfolio_4column .witr_section_title_inner.text-center p {
@@ -6941,12 +6941,12 @@ ul.page-numbers a.page-numbers {
 	border: 1px solid #ddd;
 }
 .blog_left_2column_area .readmore a:hover {
-    border-color: #14b1bb;
-    background: #14b1bb;
+    border-color: #002957;
+    background: #002957;
 	color: #fff;
 }
 .blog_left_2column_area .poket-blog-meta-left i {
-    color: #14b1bb;
+    color: #002957;
 }
 
 /* blog area css */
@@ -6980,7 +6980,7 @@ ul.page-numbers a.page-numbers {
 }
 .cp5_blog_area .learn_btn:hover {
     color: #fff;
-    background-color: #14b1bb;
+    background-color: #002957;
 }
 /* corporate6 blog area css */
 .cp6_blog_area .witr_blog_con {
@@ -7000,7 +7000,7 @@ ul.page-numbers a.page-numbers {
     display: inline-block;
 }
 .cp6_blog_area .learn_btn:hover {
-    border-color: #14b1bb;
+    border-color: #002957;
 }
 .cp6_blog_area .witr_blog_con h2 a {
     margin-top: 0;
@@ -7026,10 +7026,10 @@ ul.page-numbers a.page-numbers {
     border-style: default;
 }
 .cp7_blog_area .learn_btn:hover {
-    color: #14b1bb;
+    color: #002957;
 }
 .cp7_blog_area .wbutton_right_icon a{
-	color:#14b1bb;
+	color:#002957;
 }
 /* corporate8 blog area css */
 .cp8_blog_area {
@@ -7048,7 +7048,7 @@ ul.page-numbers a.page-numbers {
     border-style: default;
 }
 .cp8_blog_area .learn_btn:hover{
-	color: #14b1bb;;
+	color: #002957;;
 }
 .corporate_blog_area.cp8_blog_area .witr_top_category ul li a {
     padding: 3px 10px 3px 0px;
@@ -7092,7 +7092,7 @@ ul.page-numbers a.page-numbers {
     display: inline-block;
 }
 .witr_blog_area13 .learn_btn:hover {
-    border-color: #14b1bb;
+    border-color: #002957;
 }
 /* corporate10 blog area css */
 .cp10_blog_area {
@@ -7116,7 +7116,7 @@ ul.page-numbers a.page-numbers {
 	margin-top:5px;
 }
 .cp11_blog_area .learn_btn:hover{
-	color:#14b1bb;
+	color:#002957;
 }
 /* Animation blog area css */
 .animat_blog_area {
@@ -7130,10 +7130,10 @@ ul.page-numbers a.page-numbers {
     margin-bottom: 0px;
 }
 .animat_blog_area .witr_blog_con span {
-    color: #14b1bb;
+    color: #002957;
 }
 .animat_blog_area .witr_blog_con span a {
-    color: #14b1bb;
+    color: #002957;
 }
 .animat_blog_area .learn_btn {
     color: #030925;
@@ -7141,7 +7141,7 @@ ul.page-numbers a.page-numbers {
     font-weight: 500;
     background-color: #FFFFFF00;
     border-style: default;
-    border: 1px solid #14b1bb;
+    border: 1px solid #002957;
     padding: 9px 30px;
     border-radius: 5px;
     margin-top: 20px;
@@ -7150,7 +7150,7 @@ ul.page-numbers a.page-numbers {
     display: inline-block;
 }
 .animat_blog_area .learn_btn:hover{
-	color: #14b1bb;
+	color: #002957;
 }
     
 /* witr_blog_area12 */
@@ -7241,7 +7241,7 @@ ul.page-numbers a.page-numbers {
     color: #888;
 }
 .wblog-content span i, .witr_blog_con span i {
-    color: #14b1bb;
+    color: #002957;
 }
 .bs5 span {
     line-height: 26px;
@@ -7298,13 +7298,13 @@ ul.page-numbers a.page-numbers {
 }
 .corporate_blog_area .witr_top_category ul li {
     display: inline-block;
-    background: #14b1bb;
+    background: #002957;
     border-radius: 5px;
 }
 .corporate_blog_area .witr_top_category ul li a {
     border-radius: 5px;
     display: inline-block;
-    background-color: #14b1bb;
+    background-color: #002957;
     padding: 3px 10px 3px 10px;
     color: #fff;
 	transform:scale(1);
@@ -7314,10 +7314,10 @@ ul.page-numbers a.page-numbers {
     padding: 10px 0px 8px 0px;
 }
 .witr_blog_con h2 a:hover{
-	color: #14b1bb;
+	color: #002957;
 }
 .blog_add_icon a, .busi_singleBlog:hover .wbutton_right_icon a::before {
-    background: #14b1bb;
+    background: #002957;
 }
 .blog_sidebar .btn2.witr_bt2, .corporate_blog_area .btn2.witr_bt2 {
     font-size: 16px;
@@ -7326,14 +7326,14 @@ ul.page-numbers a.page-numbers {
     border-radius: 5px;
     transition: .5s;
     display: inline-block;
-    border: 1px solid #14b1bb;
+    border: 1px solid #002957;
 }
 .blog_sidebar .witr_blog_con {
     padding: 20px 15px 20px 25px;
     margin-bottom: 0px;
 }
 .blog_sidebar .btn2.witr_bt2:hover, .corporate_blog_area .btn2.witr_bt2:hover {
-    background: #14b1bb;
+    background: #002957;
     color: #fff;
 }
 /* blog grid area css */
@@ -7362,14 +7362,14 @@ ul.page-numbers a.page-numbers {
     padding: 10px 30px;
     margin-top: 15px;
     transition: .5s;
-    color: #14b1bb;
+    color: #002957;
     font-size: 18px;
     display: inline-block;
     font-weight: 600;
 }
 .cp_blog_grid_area .learn_btn:hover {
-    background:#14b1bb;
-	border-color:#14b1bb;
+    background:#002957;
+	border-color:#002957;
 	color:#fff;
 }
  .blog_active:hover .slick-prev, .blog_active:hover .slick-next{
@@ -7454,7 +7454,7 @@ ul.page-numbers a.page-numbers {
     text-transform: capitalize;
 }
 .blog-left-side .widget h2::before {
-    background: #14b1bb none repeat scroll 0 0;
+    background: #002957 none repeat scroll 0 0;
     bottom: 0;
     content: "";
     height: 20px;
@@ -7490,7 +7490,7 @@ ul.page-numbers a.page-numbers {
 }
 .blog-left-side .widget ul li a:hover,
 .blog-left-side .widget ul li:hover::before {
-    color: #14b1bb;
+    color: #002957;
 }
 .blog-left-side .widget ul li::before {
     content: "\f105";
@@ -7532,10 +7532,10 @@ ul.page-numbers a.page-numbers {
 .widget_archive ul li:hover:before,
 .widget_categories ul li a:hover,
 .widget_categories ul li:hover:before {
-    color: #14b1bb;
+    color: #002957;
 }
 .tagcloud a:hover {
-    background: #14b1bb;
+    background: #002957;
     color: #fff;
 }
 #wp-calendar caption {
@@ -7578,7 +7578,7 @@ table#wp-calendar th {
 }
 table#wp-calendar td#today {
     color: #fff;
-    background-color: #14b1bb;
+    background-color: #002957;
 }
 table#wp-calendar td#today a {
     color: #fff;
@@ -7671,7 +7671,7 @@ table#wp-calendar td#today a {
     color: #444;
 }
 .corporate-blog-meta.post_blog h2 a:hover{
-	color:#14b1bb;
+	color:#002957;
 }
 .corporate-single-blog-title h2 {
     padding: 0;
@@ -7686,7 +7686,7 @@ table#wp-calendar td#today a {
 	display:inline-block;
 }
 .corporate-blog-meta-left i {
-    color: #14b1bb;
+    color: #002957;
     margin-right: 5px;
 }
 .blog-content p {
@@ -7694,7 +7694,7 @@ table#wp-calendar td#today a {
     padding-top: 14px;
 }
 .em-blog-content-area .witr_btn {
-    background: #14b1bb;
+    background: #002957;
     border-radius: 5px;
     color: #fff;
     display: inline-block;
@@ -7725,7 +7725,7 @@ blockquote p {
 }
 .witr-blog-side-area blockquote {
     background-color: #f7f7f7;
-    border-left: 3px solid  #14b1bb;
+    border-left: 3px solid  #002957;
     padding: 1em 1em;
     margin-top: 15px;
 }
@@ -7739,7 +7739,7 @@ blockquote p {
     transition: all .3s ease 0s;
 }
 .recent-post-text h4 a:hover {
-    color: #14b1bb;
+    color: #002957;
 }
 /* video play css */
 .video-open-inline iframe{
@@ -7808,8 +7808,8 @@ blockquote p {
     color: #444;
 }
 .corporate_btn:hover {
-    background:#14b1bb;
-	border-color:#14b1bb;
+    background:#002957;
+	border-color:#002957;
 	color:#fff;
 }
 .single_blog_thumb img {
@@ -7862,8 +7862,8 @@ blockquote p {
 	transition:.5s;
 }
 .corporate-single-icon-inner a:hover {
-    background: #14b1bb ;
-    border-color: #14b1bb ;
+    background: #002957 ;
+    border-color: #002957 ;
     color: #fff;
 }
 .recent-post-image {
@@ -7879,7 +7879,7 @@ blockquote p {
     margin-bottom: 0px;
 }
 .corporate2_blog_area .learn_more_adn a {
-    border: 1px solid #14b1bb;
+    border: 1px solid #002957;
 	padding: 9px 30px;
     border-radius: 5px;
 	font-size: 16px;
@@ -7888,7 +7888,7 @@ blockquote p {
 	display:inline-block;
 }
 .corporate2_blog_area .learn_more_adn a:hover {
-    background: #14b1bb;
+    background: #002957;
 	color:#fff;
 }
 
