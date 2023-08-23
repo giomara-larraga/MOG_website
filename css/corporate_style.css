@@ -349,12 +349,12 @@ p.form-messege{
     transition: .1s;
     position: absolute;
     top: 50%;
-    content: "//";
+    content: ">";
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%);
 }
 .corporate_menu ul .sub-menu .sub-menu .sub-menu .sub-menu li:hover>a, .corporate_menu ul .sub-menu .sub-menu .sub-menu li:hover>a, .corporate_menu ul .sub-menu .sub-menu li:hover>a, .corporate_menu ul .sub-menu li:hover:before, .corporate_menu ul .sub-menu li:hover>a {
-    color: #21cdc0;
+    color: #F1563F;
 }
 /* sub menu 2 */
 .corporate_menu ul .sub-menu .sub-menu {
@@ -1312,7 +1312,7 @@ a.dtbtn {
 }
 /* corporate animation banner area */
 .animate_banner_area {
-    background-image: url("../../images/corporate/slider14.jpg");
+    background-image: url("../img/slider14.jpg");
     background-position: center center;
     background-size: cover;
 	position:relative;
@@ -1622,8 +1622,8 @@ a.em-active-button {
     right: 0;
 }
 .em-nivo-slider-wrapper .nivo-directionNav a:hover {
-    background: #002957;
-    border-color: #002957;
+    background: #F1563F;
+    border-color: #F1563F;
     color: #fff;
 }
 .em-nivo-slider-wrapper:hover .nivo-directionNav a {
@@ -2399,7 +2399,7 @@ line-height: 25px;
 }
 /* ===== 6. Service Area CSS ===== */
 .em_service_area {
-    background-image: url(../../images/corporate/service1-bg.jpg);
+    background-image: url(../img/service1-bg.jpg);
     padding: 90px 0px 80px;
     background-size: cover;
 }
@@ -2509,7 +2509,7 @@ line-height: 25px;
 }
 /* ===== Service Area CSS ===== */
 .cp5_service_area {
-    background-image: url(../../images/corporate/service-bg.png);
+    background-image: url(../../img/service-bg.png);
     padding: 165px 0 190px;
 }
 .cp5_service_area .em_single_service {
@@ -2948,7 +2948,7 @@ line-height: 25px;
 }
 /* ===== 8. Skill Area CSS ===== */
 .corporate_skill_area{
-	background-image:url(../../images/corporate/skill-bg.jpg);
+	background-image:url(../img/skill-bg.jpg);
 	background-position: center center;
     background-size: cover;
 }
@@ -3029,7 +3029,7 @@ line-height: 25px;
 }
 /* ===== Skill Area CSS ===== */
 .corporate2_skill_area {
-    background-image: url(../../images/corporate/skill-bg-11.jpg);
+    background-image: url(../img/skill-bg-11.jpg);
 }
 /* ===== Skill Area CSS ===== */
 .corporate3_skill_area {
@@ -3208,7 +3208,7 @@ line-height: 25px;
     top: 319px;
 }
 .witr_all_color_v, .witr_videobg_image:before {
-    background-image: url("../../images/corporate/tab-thumb1.jpg");
+    background-image: url("../img/tab-thumb1.jpg");
     background-position: center center;
     background-size: cover;
 }
@@ -3218,7 +3218,7 @@ line-height: 25px;
 }
 /* ===== Tab Area CSS ===== */
 .corporate3_tab_area{
-	background-image: url(../../images/corporate/tab-bg-12.jpg);
+	background-image: url(../img/tab-bg-12.jpg);
     background-position: center center;
     background-size: cover;
 }  
@@ -3359,7 +3359,7 @@ line-height: 25px;
 /* ===== 10. Team Area CSS ===== */
 .corporate_team_area {
     padding: 90px 0px 180px;
-    background-image: url(../../images/corporate/team-bg.jpg);
+    background-image: url(../img/team-bg.jpg);
     background-size: cover;
 }
 .corporate_team_area .witr_team_content15 {
@@ -4372,13 +4372,13 @@ font-size: 21px;
     bottom: 0;
 }
 .pricing_top_box {
-    background-image: url("../../images/corporate/team2.jpg");
+    background-image: url("../img/team2.jpg");
 }
 .pricing_image2 {
-    background-image: url("../../images/corporate/team3.jpg");
+    background-image: url("../img/team3.jpg");
 }
 .pricing_image3 {
-    background-image: url("../../images/corporate/team1.jpg");
+    background-image: url("../img/team1.jpg");
 }
 /* pricing area3 css */
 .pricing_plane_area3 {
@@ -4879,7 +4879,7 @@ font-size: 21px;
 }
 /* ===== Counter Up Area CSS ===== */
 .cp10_counter_up_area {
-    background-image: url(../img/carousel/15:28 18.8.2023.jpg);
+    background-image: url("../img/carousel/15:28 18.8.2023.jpg");
     background-position: top center;
     background-size: cover;
     padding: 213px 0 190px;
@@ -5190,7 +5190,7 @@ font-size: 21px;
 }
 /* ===== 17. Contact Area CSS ===== */
 .corporate_contact_area{
-	background-image: url(../../images/corporate/contact-bg.jpg);
+	background-image: url(../img/contact-bg.jpg);
     background-position: center center;
     background-size: cover;
 }    
@@ -5290,7 +5290,7 @@ font-size: 21px;
 }
 /* ===== corporate5 Contact Area CSS ===== */
 .cp5_contact_area {
-    background-image: url(../../images/corporate/contact-bg4.jpg);
+    background-image: url(../img/contact-bg4.jpg);
 	background-position: center right;
     background-size: cover;
 }
@@ -5802,7 +5802,7 @@ button:focus {
     height: 40px;
     line-height: 40px;
     display: inline-block;
-    background: #0a0a0a;
+    background: #F1563F;
     text-align: center;
     border-radius: 5px;
     margin-right: 5px;
@@ -5811,8 +5811,9 @@ button:focus {
     color: #fff;
 }
 .corporate-description-area .social-icons a:hover {
-    border-color: #002957;
-	background: #002957;
+    border-color: #F1563F;
+    color: #F1563F;
+	background: #fff;
 }
 .corporate-description-area a img {
     margin: 26px 0;
@@ -5837,7 +5838,7 @@ button:focus {
     background: #002957;
 }
  .copy-right-text {
-     text-align:left;
+     text-align:center;
 }
  .copy-right-text p {
      margin: 0;
@@ -5903,7 +5904,7 @@ button:focus {
      font-size: 30px;
 }
 .breadcumb-area {
-    background-image: url("../../images/corporate/service1-bg.jpg");
+    background-image: url("../img/service1-bg.jpg");
     padding: 60px 0px 60px;
     background-position: center center;
     background-repeat: no-repeat;
@@ -5981,7 +5982,7 @@ button:focus {
 }
 /* ===== 19. video Area CSS ===== */
 .cp9_video_area {
-    background-image: url(../../images/corporate/slider2.jpg);
+    background-image: url(../img/slider2.jpg);
     background-position: center center;
     background-size: cover;
     padding: 95px 0 150px;
@@ -6605,7 +6606,7 @@ ul.page-numbers a.page-numbers {
 /* ===== Portfolio Area CSS ===== */
 .corporate02_portfolio_area {
     padding: 90px 0px 70px;
-    background-image: url(../../images/corporate/team-bg-11.jpg);
+    background-image: url(../img/team-bg-11.jpg);
     background-position: center center;
     background-size: cover;
 }
@@ -6765,7 +6766,7 @@ ul.page-numbers a.page-numbers {
     padding: 120px 0 50px;
 }
 .cp8_portfolio_bg_area{
-	background-image:url(../../images/corporate/gallery-8-bg.jpg);
+	background-image:url(../img/gallery-8-bg.jpg);
 	background-position: center center;
     background-size: cover;
 }
