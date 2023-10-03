@@ -26,7 +26,7 @@
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
   </head>
   <body>
-    <div class="em40_header_area_main">
+  <div class="em40_header_area_main">
       <div class="corporate-header-top">
         <div class="container-fluid">
           <div class="row">
@@ -34,12 +34,15 @@
               <div class="top-address text-left">
                 <p>
                   <span>
-                    <i class="icofont-location-pin"></i>Mattilanniemi 2 (Agora),
-                    40100 Jyväskylä, Finland</span
+                    <i class="icofont-external-link"></i
+                    ><a href="https://desdeo.it.jyu.fi/"
+                      >Discover DESDEO: Enhancing Decision-Making with Our
+                      Software Framework.</a
+                    ></span
                   >
-                  <a href="mailto:demo@example.com">
-                    <i class="icofont-envelope"></i>optim@jyu.fi
-                  </a>
+                  <!--                   <a href="mailto:demo@example.com">
+                    <i class="icofont-envelope"></i>
+                  </a> -->
                 </p>
               </div>
             </div>
@@ -75,10 +78,10 @@
             <div class="row logo-left">
               <div class="col-md-3 col-sm-3 col-xs-4">
                 <div class="logo">
-                  <a class="main_sticky_main_l" href="index.html" title="MOG">
+                  <a class="main_sticky_main_l" href="index.php" title="MOG">
                     <img src="img/logo1.png" alt="MOG" />
                   </a>
-                  <a class="main_sticky_l" href="index.html" title="MOG">
+                  <a class="main_sticky_l" href="index.php" title="MOG">
                     <img src="img/logo2.png" alt="MOG" />
                   </a>
                 </div>
@@ -89,79 +92,92 @@
                   <nav class="corporate_menu">
                     <ul class="sub-menu">
                       <li>
-                        <a href="index.html">Home</a>
+                        <a href="index.php">Home</a>
                       </li>
                       <li class="menu-item-has-children">
                         <a href="#">About us</a>
                         <ul class="sub-menu">
                           <li>
-                            <a href="our_group_in_brief.html"
+                            <a href="our_group_in_brief.php"
                               >Our group in brief</a
                             >
                           </li>
                           <li>
-                            <a href="research_profile.html">Research profile</a>
-                          </li>
-                          <li>
-                            <a href="research_directions.html"
-                              >Current research directions</a
+                            <a href="research_interests.php"
+                              >Our research interests</a
                             >
                           </li>
-                          <li><a href="members.html">Members</a></li>
-                          <li><a href="gallery.html">Gallery</a></li>
+                          <li><a href="gallery.php">Photo gallery</a></li>
+                        </ul>
+                      </li>
+                      <li class="menu-item-has-children">
+                        <a href="#">Members</a>
+                        <ul class="sub-menu">
+                          <li>
+                            <a href="members.php">Current members</a>
+                          </li>
+                          <li>
+                            <a href="former_members.php">Former members</a>
+                          </li>
+                          <li>
+                            <a href="long_term_visitors.php"
+                              >Long term visitors</a
+                            >
+                          </li>
+                          <li>
+                            <a href="join_our_group.php">Join our group</a>
+                          </li>
                         </ul>
                       </li>
                       <li class="menu-item-has-children">
                         <a href="#">Research activities</a>
                         <ul class="sub-menu">
-                          <li><a href="seminar.html">Seminar</a></li>
-                          <li><a href="publications.php">Publications</a></li>
-                          <li><a href="projects.html">Projects</a></li>
+                          <li><a href="seminar.php">Weekly seminar</a></li>
+                          <li><a href="projects.php">Projects</a></li>
                           <li>
-                            <a href="conference_participation.html"
+                            <a href="conference_participation.php"
                               >Conference participation</a
                             >
                           </li>
                           <li>
-                            <a href="research_visits.html">Research visits</a>
+                            <a href="research_visits.php">Research visits</a>
                           </li>
                           <li>
-                            <a href="collaboration.html">Collaboration</a>
-                          </li>
-                        </ul>
-                      </li>
-                      <li class="menu-item-has-children">
-                        <a href="#">Resources</a>
-                        <ul class="sub-menu">
-                          <li><a href="material.html">Material</a></li>
-                          <li><a href="software.html">Software</a></li>
-                          <li>
-                            <a href="posters_of_research.html"
+                            <a href="posters_of_research.php"
                               >Posters of research</a
                             >
                           </li>
+                          <li>
+                            <a href="software.php">Software</a>
+                          </li>
                         </ul>
                       </li>
-                      <li><a href="news.html">News</a></li>
                       <li class="menu-item-has-children">
+                        <a href="#">Publications</a>
+                        <ul class="sub-menu">
+                          <li>
+                            <a href="publications.php">List of publications</a>
+                          </li>
+                          <li><a href="material.php">Extra material</a></li>
+                        </ul>
+                      </li>
+                      <li><a href="news.php">News</a></li>
+                      <!-- <li class="menu-item-has-children">
                         <a href="#">Opportunities</a>
                         <ul class="sub-menu">
                           <li>
-                            <a href="join_our_group.html">Join our group</a>
-                          </li>
-                          <li>
-                            <a href="current_job_openings.html"
+                            <a href="current_job_openings.php"
                               >Current job openings</a
                             >
                           </li>
                           <li>
-                            <a href="thesis_topics.html"
+                            <a href="thesis_topics.php"
                               >Master and PhD thesis topics</a
                             >
                           </li>
                         </ul>
-                      </li>
-                      <li><a href="contact.html">Contact</a></li>
+                      </li> -->
+                      <li><a href="contact.php">Contact</a></li>
                     </ul>
                   </nav>
                 </div>
@@ -177,7 +193,7 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="mobile_menu_logo text-center">
-              <a href="index.html" title="poket">
+              <a href="index.php" title="poket">
                 <img src="img/logo1.png" alt="image" />
               </a>
             </div>
@@ -191,68 +207,88 @@
         <nav class="corporate_menu">
           <ul class="sub-menu">
             <li>
-              <a href="index.html">Home</a>
+              <a href="index.php">Home</a>
             </li>
             <li class="menu-item-has-children">
               <a href="#">About us</a>
               <ul class="sub-menu">
                 <li>
-                  <a href="our_group_in_brief.html">Our group in brief</a>
+                  <a href="our_group_in_brief.php">Our group in brief</a>
                 </li>
-                <li><a href="research_profile.html">Research profile</a></li>
                 <li>
-                  <a href="research_directions.html"
-                    >Current research directions</a
-                  >
+                  <a href="research_interests.php">Our research interests</a>
                 </li>
-                <li><a href="members.html">Members</a></li>
-                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="gallery.php">Photo gallery</a></li>
+              </ul>
+            </li>
+            <li class="menu-item-has-children">
+              <a href="#">Members</a>
+              <ul class="sub-menu">
+                <li>
+                  <a href="members.php">Current members</a>
+                </li>
+                <li>
+                  <a href="former_members.php">Former members</a>
+                </li>
+                <li>
+                  <a href="long_term_visitors.php">Long term visitors</a>
+                </li>
+                <li>
+                  <a href="join_our_group.php">Join our group</a>
+                </li>
               </ul>
             </li>
             <li class="menu-item-has-children">
               <a href="#">Research activities</a>
               <ul class="sub-menu">
-                <li><a href="seminar.html">Seminar</a></li>
-                <li><a href="publications.php">Publications</a></li>
-                <li><a href="projects.html">Projects</a></li>
+                <li><a href="seminar.php">Weekly seminar</a></li>
+                <li><a href="projects.php">Projects</a></li>
                 <li>
-                  <a href="conference_participation.html"
+                  <a href="conference_participation.php"
                     >Conference participation</a
                   >
                 </li>
-                <li><a href="research_visits.html">Research visits</a></li>
-                <li><a href="collaboration.html">Collaboration</a></li>
-              </ul>
-            </li>
-            <li class="menu-item-has-children">
-              <a href="#">Resources</a>
-              <ul class="sub-menu">
-                <li><a href="material.html">Material</a></li>
-                <li><a href="software.html">Software</a></li>
                 <li>
-                  <a href="posters_of_research.html">Posters of research</a>
+                  <a href="research_visits.php">Research visits</a>
+                </li>
+                <li>
+                  <a href="posters_of_research.php">Posters of research</a>
+                </li>
+                <li>
+                  <a href="software.php">Software</a>
                 </li>
               </ul>
             </li>
-            <li><a href="news.html">News</a></li>
             <li class="menu-item-has-children">
+              <a href="#">Publications</a>
+              <ul class="sub-menu">
+                <li>
+                  <a href="publications.php">List of publications</a>
+                </li>
+                <li><a href="material.php">Extra material</a></li>
+              </ul>
+            </li>
+            <li><a href="news.php">News</a></li>
+            <!-- <li class="menu-item-has-children">
               <a href="#">Opportunities</a>
               <ul class="sub-menu">
-                <li><a href="join_our_group.html">Join our group</a></li>
                 <li>
-                  <a href="current_job_openings.html">Current job openings</a>
+                  <a href="current_job_openings.php"
+                    >Current job openings</a
+                  >
                 </li>
                 <li>
-                  <a href="thesis_topics.html">Master and PhD thesis topics</a>
+                  <a href="thesis_topics.php"
+                    >Master and PhD thesis topics</a
+                  >
                 </li>
               </ul>
-            </li>
-            <li><a href="contact.html">Contact</a></li>
+            </li> -->
+            <li><a href="contact.php">Contact</a></li>
           </ul>
         </nav>
       </div>
     </div>
-
     <!-- END MOBILE MENU AREA  -->
     <!-- breadcumb area -->
     <div class="breadcumb-area">
@@ -268,7 +304,7 @@
                   You are currently here! <i class="fas fa-angle-right"></i>
                 </li>
                 <li>
-                  <a href="index.html" rel="v:url" property="v:title">Home</a>
+                  <a href="index.php" rel="v:url" property="v:title">Home</a>
                 </li>
                 <li><i class="fas fa-angle-right"></i></li>
                 <li><span class="current">Publications</span></li>
@@ -320,9 +356,9 @@
                 <div class="menu-useful-links-container">
                   <ul class="menu">
                     <li><a href="publications.php">Publications</a></li>
-                    <li><a href="seminar.html">Seminar</a></li>
-                    <li><a href="news.html">News</a></li>
-                    <li><a href="thesis_topics.html">Thesis topics</a></li>
+                    <li><a href="seminar.php">Seminar</a></li>
+                    <li><a href="news.php">News</a></li>
+                    <li><a href="thesis_topics.php">Thesis topics</a></li>
                   </ul>
                 </div>
               </div>
