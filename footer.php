@@ -18,7 +18,7 @@
               </p>
               <p class="phone"><a href="tel:"> </a></p>
               <div class="social-icons">
-                <a href="#"><i class="icofont-twitter"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
 
                 <a href="#"><i class="icofont-brand-youtube"></i></a>
                 <a href="#"><i class="icofont-github"></i></a>
@@ -65,14 +65,7 @@
                       <p>optim@jyu.fi</p>
                     </div>
                   </div>
-                  <div class="footer_s_inner">
-                    <div class="footer-sociala-icon">
-                      <i class="icofont-ui-clock"></i>
-                    </div>
-                    <div class="footer-sociala-info">
-                      <p>Working Hours: 9:00 - 5:00</p>
-                    </div>
-                  </div>
+                 
                 </div>
               </div>
             </div>
