@@ -147,15 +147,21 @@
   <div class="container">
     <h3>How to reach us from the railway station:</h3>
     <p align="justify">
-      By walking: We are located at the Agora building (street address is Mattilanniemi 2), which is a little bit more than a kilometer away from the railway station (known as Matkakeskus). From the railway station, you can walk along the Jyväsjärvi shore. To get to the shore, you have to cross the rails using a pedestrian bridge, which you can find around 100 meters left from the main door of the railway station. After the pedestrian bridge turn right along the shore. The Agora building is the second big white office building.
+      By walking: We are located at the Agora building (street address is Mattilanniemi 2), which is a little bit
+      more than a kilometer away from the railway station (known as Matkakeskus). From the railway station, you
+      can walk along the Jyväsjärvi shore. To get to the shore, you have to cross the rails using a pedestrian
+      bridge, which you can find around 100 meters left from the main door of the railway station. After the
+      pedestrian bridge turn right along the shore. The Agora building is the second big white office building.
     </p>
 
     <p align="justify">
-      By taxi: You can catch a taxi at the railway station. The street address is Mattilanniemi 2 and the building is called Agora.
+      By taxi: You can catch a taxi at the railway station. The street address is Mattilanniemi 2 and the building
+      is called Agora.
     </p>
 
     <p align="justify">
-      Our offices and negotiation room (AgC421.1) are located on the C block of the fourth floor. When you enter through the main entrance, you are in the C block.
+      Our offices and negotiation room (AgC421.1) are located on the C block of the fourth floor. When you enter
+      through the main entrance, you are in the C block.
       <a href="http://users.jyu.fi/~miettine/engl.php">
         Prof. Kaisa Miettinen</a>'s office is AgC426.4.
     </p>

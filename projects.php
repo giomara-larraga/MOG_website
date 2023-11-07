@@ -111,13 +111,32 @@
               <ul class="default-list">
                 <li align="justify">
                   <a href="https://www.aka.fi/en/">Research Council of Finland (former Academy of
-                    Finland)</a> funds the project DESIDES (Decision Support with Interactive Advanced Data-Enabled Multiobjective Optimization Systems) in 2023-2027. In this project, we develop advanced, interactive multiobjective optimization methods to support making trustworthy and intelligible decisions. We also extend our focus to group decision making. The methods to be developed will augment data with human judgment and communicate decisions and their consequences to the people involved with novel, interactive visualizations. At the same time, we extend the open-source software framework DESDEO group decision making and answer the need to provide explainable, data-enabled decision recommendations. We will pilot and verify our approaches with selected application cases.
+                    Finland)</a> funds the project DESIDES (Decision Support with Interactive
+                  Advanced Data-Enabled Multiobjective Optimization Systems) in 2023-2027. In this
+                  project, we develop advanced, interactive multiobjective optimization methods to
+                  support making trustworthy and intelligible decisions. We also extend our focus to
+                  group decision making. The methods to be developed will augment data with human
+                  judgment and communicate decisions and their consequences to the people involved
+                  with novel, interactive visualizations. At the same time, we extend the open-source
+                  software framework DESDEO group decision making and answer the need to provide
+                  explainable, data-enabled decision recommendations. We will pilot and verify our
+                  approaches with selected application cases.
                 </li>
                 <li align="justify">
-                  <a href="https://www.aka.fi/en/">Academy of Finland</a> funds the consortium project UTOPIA (Is climate smart forestry a utopia if the preferences of landowners are not considered?) in 2023-2025. The other consortium partners are Natural Resources Institute Finland (PI) and University of Eastern Finland. In this project, we develop methods to support stakeholders in implementing climate smart forestry, which advances carbon neutrality but also considers financial objectives. Since different forest owners typically have different preferences about what kind of management is practiced, we focus on supporting decision making in this setting and finding the most preferred solution among multiple conflicting objective functions.
+                  <a href="https://www.aka.fi/en/">Academy of Finland</a> funds the consortium project
+                  UTOPIA (Is climate smart forestry a utopia if the preferences of landowners are not
+                  considered?) in 2023-2025. The other consortium partners are Natural Resources
+                  Institute Finland (PI) and University of Eastern Finland. In this project, we
+                  develop methods to support stakeholders in implementing climate smart forestry,
+                  which advances carbon neutrality but also considers financial objectives. Since
+                  different forest owners typically have different preferences about what kind of
+                  management is practiced, we focus on supporting decision making in this setting and
+                  finding the most preferred solution among multiple conflicting objective functions.
                 </li>
                 <li align="justify">
-                  The Peter Wallenberg Foundation funds a project Value of Information in harvest planning of Nordic forests in 2022-2024. Our consortium partners are Skogfors in Sweden and Department of Mathematics and Statistics at our university.
+                  The Peter Wallenberg Foundation funds a project Value of Information in harvest
+                  planning of Nordic forests in 2022-2024. Our consortium partners are Skogfors in
+                  Sweden and Department of Mathematics and Statistics at our university.
                 </li>
                 <li align="justify">
                   Tietoevry funds a project in optimized 3D truck loading in 2023-2024.
@@ -130,7 +149,8 @@
               <ul class="default-list">
                 <li align="justify"><a href="http://www.aka.fi/en/">Academy of
                     Finland</a> funded the project <b>DAEMON</b> (Data-driven Decision
-                  Support with Multiobjective Optimization) in 2019-2023. In this project, methods were
+                  Support with Multiobjective Optimization) in 2019-2023. In this project, methods
+                  were
                   developed for data-driven decision support. Decision analytics was augmented with
                   multiobjective optimization as multiobjective decision analytics. The results were
                   implemented in an open source software framework <a href="https://desdeo.it.jyu.fi">DESDEO</a> and are, thus,
@@ -141,10 +161,27 @@
                 <li align="justify"><a href="http://www.aka.fi/en/">Academy of
                     Finland</a> funded the thematic research area (profiling area) in
                   the project <a href="https://jyu.fi/demo"><b>DEMO</b></a>, Decision
-                  Analytics Utilizing Causal Models and Multiobjective Optimization in 2017-2021. Even though the funding from the Academy has ended, DEMO still exists. DEMO focuses on explicit, concrete decision problems that can be presented with mathematical formalism. Predictive analytics, statistical modelling, causal inference, prescriptive analytics and multiobjective optimization are the key elements needed to create a seamless chain from data to decision. We refer to this as decision analytics. Thanks to method and software development, decision analytics is applied to support e.g. other profiling areas of the University of Jyvaskyla, especially related to education and health in dealing with their decision problems.
+                  Analytics Utilizing Causal Models and Multiobjective Optimization in 2017-2021. Even
+                  though the funding from the Academy has ended, DEMO still exists. DEMO focuses on
+                  explicit, concrete decision problems that can be presented with mathematical
+                  formalism. Predictive analytics, statistical modelling, causal inference,
+                  prescriptive analytics and multiobjective optimization are the key elements needed
+                  to create a seamless chain from data to decision. We refer to this as decision
+                  analytics. Thanks to method and software development, decision analytics is applied
+                  to support e.g. other profiling areas of the University of Jyvaskyla, especially
+                  related to education and health in dealing with their decision problems.
 
 
-                <li align="justify"><a href="http://www.aka.fi/en/">Academy of Finland</a> funded the project DESDEO (Decision Support for Computationally Demanding Optimization Problems) in 2015-2019. In this project, new interactive multiobjective optimization methods were developed for dealing with computationally demanding problems (e.g. when function evaluations are time-consuming or dimensions are high). In hybrid methods developed, expertise and strengths of different fields were combined. In addition. a novel, general interactive multiobjective optimization framework was developed. It includes open interfaces to connect external modules to it. With this project, interactive multiobjective optimization were brought closer to users and awareness of its potential was increased.
+                <li align="justify"><a href="http://www.aka.fi/en/">Academy of Finland</a> funded the
+                  project DESDEO (Decision Support for Computationally Demanding Optimization
+                  Problems) in 2015-2019. In this project, new interactive multiobjective optimization
+                  methods were developed for dealing with computationally demanding problems (e.g.
+                  when function evaluations are time-consuming or dimensions are high). In hybrid
+                  methods developed, expertise and strengths of different fields were combined. In
+                  addition. a novel, general interactive multiobjective optimization framework was
+                  developed. It includes open interfaces to connect external modules to it. With this
+                  project, interactive multiobjective optimization were brought closer to users and
+                  awareness of its potential was increased.
 
                 <li align="justify">In the <a href="decomo/decomo.html"> <b>FiDiPro
                       project DeCoMo</b> (Decision Support for
@@ -162,17 +199,30 @@
                     Research Institute Europe</a>.
                   </p>
                   <p>
-                    FiDiPro Professor Yaochu Jin is a world-leading researcher in surrogate-assisted evolutionary optimization as well as multiobjective optimization. He has rich expertise in learning systems, in particular in integrating evolution and learning. Additionally, he has long experience working with the Honda Research Institute, where he worked on various real-world aerodynamic optimization problems.
+                    FiDiPro Professor Yaochu Jin is a world-leading researcher in surrogate-assisted
+                    evolutionary optimization as well as multiobjective optimization. He has rich
+                    expertise in learning systems, in particular in integrating evolution and
+                    learning. Additionally, he has long experience working with the Honda Research
+                    Institute, where he worked on various real-world aerodynamic optimization
+                    problems.
                   </p>
                   <p>
-                    In DeCoMo, the expertise of Prof. Jin and that of the Industrial Optimization group in interactive multiobjective optimization complemented each other and together we developed novel optimization methods for decision support in solving complex multiobjective optimization problems by combining modern meta-heuristics and machine learning techniques. The output of this project was a prototype of an intelligent decision support tool that can make advanced multiobjective optimization methods available for industry, thereby significantly enhancing the innovation capability and competitiveness of the Finnish industries.
+                    In DeCoMo, the expertise of Prof. Jin and that of the Industrial Optimization
+                    group in interactive multiobjective optimization complemented each other and
+                    together we developed novel optimization methods for decision support in solving
+                    complex multiobjective optimization problems by combining modern meta-heuristics
+                    and machine learning techniques. The output of this project was a prototype of
+                    an intelligent decision support tool that can make advanced multiobjective
+                    optimization methods available for industry, thereby significantly enhancing the
+                    innovation capability and competitiveness of the Finnish industries.
                   </p>
                 </li>
 
 
                 <li align="justify"><b>FINNOPT</b> was a one year project (August 2014-July 2015) funded
                   by <a href="http://www.tekes.fi">Tekes</a>.
-                  The aim of FINNOPT was to commercialize the state-of-the-art methods in optimization,
+                  The aim of FINNOPT was to commercialize the state-of-the-art methods in
+                  optimization,
                   developed at the Industrial Optimization Group. </li>
 
                 <li align="justify"> <a href="http://www.tekes.fi">Tekes</a>-funded
@@ -248,7 +298,8 @@
                   multiobjective optimization and multidisciplinary decision support
                   (joint project with Helsinki School of Economics, University of
                   Kuopio, Tampere University of Technology and Helsinki University of
-                  Technology), which belonged to the <a href="http://www.tekes.fi/masi">MASI technology
+                  Technology), which belonged to the <a href="http://www.tekes.fi/masi">MASI
+                    technology
                     programme</a>, in
                   2005-2008. Several companies were involved. </li>
                 <li align="justify"><a href="http://www.tekes.fi">Tekes</a> funded the project <a href="http://www.mit.jyu.fi/nimbusprojekti/">NIMBUS -

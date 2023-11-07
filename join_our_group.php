@@ -105,12 +105,20 @@
               <img src="img/gallery/UI-test.JPG" alt="image" />
               <h2>Join the Multiobjective Optimization Group</h2>
 
-              <p>We welcome both new doctoral students and postdoctoral researchers assuming funding can be arranged. Information about these positions and the requirements in English is provided <a href="https://www.jyu.fi/it/en/open-positions/mit">here</a>. Motivated bachelor and master students are also welcome to conduct their interested research in the group. We have several <a href="http://www.mit.jyu.fi/optgroup/thesis_topics.html">thesis topics</a> available for bachelor, master and PhD students with focus on either methods, software or application and we are willing to tailor topic according to interests. </p>
+              <p>We welcome both new doctoral students and postdoctoral researchers assuming funding can
+                be arranged. Information about these positions and the requirements in English is
+                provided <a href="https://www.jyu.fi/it/en/open-positions/mit">here</a>. Motivated
+                bachelor and master students are also welcome to conduct their interested research in
+                the group. We have several <a href="http://www.mit.jyu.fi/optgroup/thesis_topics.html">thesis topics</a> available
+                for bachelor, master and PhD students with focus on either methods, software or
+                application and we are willing to tailor topic according to interests. </p>
 
               <h3>Requirements for new postdoctoral researchers</h3>
               <ul class="default-list">
-                <li>Be familiar with multiobjective optimization and basics of nonlinear optimization </li>
-                <li>Have high interest and plan of how to collaborate with the Multiobjective Optimization Group and prepare joint publications </li>
+                <li>Be familiar with multiobjective optimization and basics of nonlinear optimization
+                </li>
+                <li>Have high interest and plan of how to collaborate with the Multiobjective
+                  Optimization Group and prepare joint publications </li>
                 <li> Be interested in and willing to work as an active member of the group </li>
                 <li> Be active in research and willing to bear responsibility of one's own
                   duties within the group</li>
@@ -133,7 +141,8 @@
                 <li>Have interest in preparing scientific research articles</li>
                 <li>Be willing to work as an active member of the group and bear
                   responsibility of one's own duties within the group</li>
-                <li>General requirements</b> for doctoral students are listed <a href="https://www.jyu.fi/en/apply/doctoral-studies#autotoc-item-autotoc-2">here</a>.</li>
+                <li>General requirements</b> for doctoral students are listed <a href="https://www.jyu.fi/en/apply/doctoral-studies#autotoc-item-autotoc-2">here</a>.
+                </li>
               </ul>
 
               <br>
