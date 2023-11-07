@@ -108,50 +108,21 @@
             <div class="witr_text_widget">
               <div class="witr_text_widget_inner">
                 <img src="img/gallery/IT-Tiedekunta_15.6.2023-85.jpg" alt="image" />
-                <h2>Our group in brief</h2>
+                <h2>Our Group In Brief </h2>
                 <p>
-                  The Multiobjective optimization group of the University of
-                  Jyväskylä, Finland, is a part of the Faculty of Information
-                  Technology and is headed by Prof. Kaisa Miettinen (since
-                  1998). The research interests of the group are focused on
-                  (nonlinear) multiobjective optimization in the presence of
-                  conflicting objectives. The main activities of the group
-                  involve the following key areas:
+                The Multiobjective Optimization Group of the University of Jyväskylä, Finland is headed by Prof. Kaisa Miettinen. It was established in 1998. The research interests of the group are focused on (nonlinear) multiobjective optimization in the presence of conflicting objectives. The main activities of the group involve the following key areas: 
                 </p>
                 <p>
-                  Method development: Thinking of new and better ways to solve
-                  multi-objective optimization problems involving the
-                  preferences of a decision maker. This includes the development
-                  of new interactives methods that can be of different types:
-                  scalarization-based, evolutionary, or hybrid. Another
-                  characteristic of the methods developed is
-                  application-independence, enabling their use across diverse
-                  domains without necessitating modifications.
+                <b>Method development:</b> Thinking of new and better ways to solve multiobjective optimization problems incorporating the preferences of a decision maker (who is assumed to be a domain expert). This includes the development of new interactives methods that can be of different types: scalarization-based, evolutionary, or hybrid. Another characteristic of the methods developed is application-independence, enabling their use across diverse domains without necessitating modifications. 
                 </p>
                 <p>
-                  Software development: All the methods developed by the
-                  research group are openly available to be utilized for
-                  researchers around the world. The group developed the DESDEO
-                  software framework, which is a free and open-source
-                  Python-based framework for developing and experimenting with
-                  interactive multiobjective optimization. DESDEO contains
-                  implementations of some interactive methods and modules that
-                  can be utilized to implement further methods.
+                <b>Software development:</b> All the methods developed by the research group are openly available to be utilized and extended by others. The group develops the open source software framework DESDEO, which is a free, modular Python-based framework for applying, developing and experimenting with interactive multiobjective optimization methods. DESDEO contains implementations of several interactive methods and modules that can be utilized to implement further methods. 
                 </p>
                 <p>
-                  Real-world applications: The work done in the research group
-                  is inspired by real-life applications with the interest of
-                  supporting decision making. The research group is also
-                  interested in solving simulation-based and data-driven
-                  problems.
+                <b>Real-world applications:</b> The work done in the research group is inspired by real-life applications with the interest of supporting decision making. The research group has expertise in solving both  simulation-based and data-driven problems. 
                 </p>
                 <p>
-                  The multiobjective optimization group is active in the
-                  Decision Analytics unitizing Causal Models and Multiobjective
-                  Optimization (DEMO) thematic research area of the University
-                  of Jyväskylä. The group is also interested in employing
-                  artificial intelligence, machine learning and explainable
-                  artificial intelligence for supporting decision-making.
+                The Multiobjective Optimization Group is active in the Decision Analytics unitizing Causal Models and Multiobjective Optimization (DEMO) thematic research area of the University of Jyväskylä. The group is interested in employing artificial intelligence, machine learning and explainable artificial intelligence for supporting decision-making as well as supporting groups of decision makers instead of a single decision maker. The group also applies and develops visualizations to support decision makers. 
                 </p>
               </div>
             </div>
@@ -177,7 +148,7 @@
                         data-target="#collapse_05"
                         aria-expanded="false"
                       >
-                        What is multiobjective optimization?</a
+                      What is multiobjective optimization? </a
                       >
                     </div>
                     <div
@@ -187,12 +158,7 @@
                       style=""
                     >
                       <p>
-                        In multiobjective optimization, several conflicting
-                        objective functions are to be optimized simultaneously.
-                        Because of the conflicting nature of the objectives, it
-                        is not possible to obtain individual optima of the
-                        objectives simultaneously but one must trade-off between
-                        the objectives.
+                      In multiobjective optimization, several conflicting objective functions are to be optimized simultaneously. Because of the conflicting nature of the objective functions, it is not possible to obtain individual optima of the objective functions simultaneously but there are trade-off between the objective functions. Therefore, there are many so-called Pareto optimal solutions with different trade-offs. Since it is not possible to order Pareto optimal solutions, we typically incorporate preference information from a domain expert who is referred to as a decision maker. With multiobjective optimization methods, we support decision makers in finding their most preferred solutions. 
                       </p>
                     </div>
                   </div>
@@ -206,7 +172,7 @@
                         data-target="#collapse_01"
                         aria-expanded="true"
                       >
-                        What is an interactive method?</a
+                      What is an interactive multiobjective optimization method? </a
                       >
                     </div>
                     <div
@@ -215,16 +181,7 @@
                       data-parent="#accordion"
                     >
                       <p>
-                        Interactive methods are iterative by nature, allowing
-                        the decision maker (who is a domain expert) to direct
-                        the solution process with one's preference information
-                        to find the most preferred balance between the
-                        objectives. In interactive methods, the amount of
-                        information to be considered at a time is limited and,
-                        thus, the cognitive load set on the decision maker is
-                        not too demanding. Furthermore, the decision maker
-                        learns about the interdependencies among the objectives
-                        and also the feasibility of one's preferences.
+                      Interactive methods are iterative by nature, allowing the decision maker (who is a domain expert) to direct the solution process with one's preference information to find the most preferred balance between the objective functions. In interactive methods, the amount of information to be considered at a time is limited and, thus, the cognitive load set on the decision maker is not too demanding. Furthermore, the decision maker learns about the interdependencies among the objectives and also about the feasibility of one's preferences and can adjust the preferences accordingly. The learning typically increases the confidence of the decision maker in the final decision. 
                       </p>
                     </div>
                   </div>
